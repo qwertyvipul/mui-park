@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/mui-park/static/js/main.58091d97.chunk.js",
-    "main.js.map": "/mui-park/static/js/main.58091d97.chunk.js.map",
+    "main.js": "/mui-park/static/js/main.56bfa0f4.chunk.js",
+    "main.js.map": "/mui-park/static/js/main.56bfa0f4.chunk.js.map",
     "runtime-main.js": "/mui-park/static/js/runtime-main.a1a77bec.js",
     "runtime-main.js.map": "/mui-park/static/js/runtime-main.a1a77bec.js.map",
     "static/css/2.a6114764.chunk.css": "/mui-park/static/css/2.a6114764.chunk.css",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a1a77bec.js",
     "static/css/2.a6114764.chunk.css",
     "static/js/2.29e8dc25.chunk.js",
-    "static/js/main.58091d97.chunk.js"
+    "static/js/main.56bfa0f4.chunk.js"
   ]
 }
